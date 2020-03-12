@@ -7,3 +7,7 @@ function sayHelloToSofia() {
 function sayHelloToBrendan() {
   console.log("Hello, Brendan!")
 }
+
+sayHelloToIsabel()
+sayHelloToSofia()
+sayHelloToBrendan()
