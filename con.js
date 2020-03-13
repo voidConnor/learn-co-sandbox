@@ -1,4 +1,6 @@
-function say(greeting, firstName) {
-  console.log(`${greeting}, ${firstName}!`)
+function add(x, y) {
+  return x + y
+  
 }
-say("Julio", "hello")
+
+add(5,4)
