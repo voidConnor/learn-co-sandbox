@@ -1,6 +1,6 @@
 function add(x, y) {
   return x + y
-  
+  add(5,4)
 }
 
-add(5,4)
+
